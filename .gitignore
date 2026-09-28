@@ -1,0 +1,16 @@
+__pycache__
+.pytest_cache
+venv
+.venv
+.ruff_cache
+.env
+.vscode
+uv.lock
+*.db
+*.sqlite
+*.sqlite3
+data/
+dist/
+build/
+.geminirules/
+.geminiignore
